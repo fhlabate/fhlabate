@@ -1,6 +1,6 @@
 Hola, soy Fede 👋
 
-Actualmente estoy estudiando data analytics en el IT Academy en Barcelona 🖥️
+Acabo de terminar mis estudios de data analytics en el IT Academy en Barcelona 🖥️
 
 Me apasiona contar historias a través de los números 📊
 
@@ -8,7 +8,7 @@ Tengo mucho interés por entender la predicción del viento y las mareas a la ho
 
 Mi primer proceso ETL lo hice analizando cuántas horas anduve en bici desde el 2020 🤯
 
-De momento domino herramientas como SQL, PowerBI y Python 🛠️
+De momento domino herramientas como SQL, PowerBI, Python y MongoDB 🛠️
 
 Estoy siempre profundizando en base a mi curiosidad 💡
 
